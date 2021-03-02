@@ -63,7 +63,7 @@ int main(void) {
     gpio_setup();
     usart_setup();
 
-    printf("hello world!\n");
+    printf("hello Joe!\n");
 
     while (1) {}
 
