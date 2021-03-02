@@ -1,3 +1,7 @@
+In this document the steps to setup renode and running a hello world are going to be shown:
+https://interrupt.memfault.com/blog/intro-to-renode#fn:2
+https://github.com/libopencm3/libopencm3-template
+
 Easy "clone and go" repository for a libopencm3 based project.
 
 # Instructions
