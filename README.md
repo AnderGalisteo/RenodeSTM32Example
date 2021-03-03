@@ -1,9 +1,9 @@
-#TL;DR
+##TL;DR
 
 In this document the steps to setup renode, simulate a stm32f4_discovery and run a hello world are going to be shown.
-#Dissclaimer:
+##Dissclaimer:
 For setting up this exercise I have followed 3 tutorials. They are well documented so instead of copying the process here, I will point to them when needed.
-#Hardware used
+##Hardware used
 This tutorial was tested in Ubuntu 16.04
 
 ## Instructions
